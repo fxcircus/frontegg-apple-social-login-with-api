@@ -1,9 +1,9 @@
 # Apple Social Login with Frontegg APIs
-Implementation of [Apple social Login](https://docs.frontegg.com/docs/apple-login)) with Frontegg APIs
+Implementation of [Apple social Login](https://docs.frontegg.com/docs/apple-login) with Frontegg APIs
 
 ## How to run
 
-1. Open your Frontegg account and follow the instructions on our [Google social Login](https://docs.frontegg.com/docs/apple-login) doc
+1. Open your Frontegg account and follow the instructions on our [Apple social Login](https://docs.frontegg.com/docs/apple-login) doc
 
 2. Open `apple-social-login-using-apis.js`, add your vendor host
 
