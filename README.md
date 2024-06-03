@@ -13,8 +13,5 @@ const fronteggDomain = 'https://app-xxxx.frontegg.com'; // example https://app-f
 
 3. Run `npm install` and then `node apple-social-login-using-apis.js`
 4. Open your browser and navigate to `http://localhost:3000`. Authenticate with your Apple account.
-You can check the logs to see if it worked from
-```
-Frontegg Portal ➜ [ENVIRONMENT] ➜ Backoffice ➜ Monitoring
-```
+You can check the logs to see if it worked from `Frontegg Portal ➜ [ENVIRONMENT] ➜ Backoffice ➜ Monitoring`
 You should also see your bearer token in the requests in the network tab.
